@@ -27,11 +27,11 @@ const siteProps = {
   name: "Darshan Bhandary",
   title: "Web Designer & Software Developer",
   email: "drshnbhandary@gmail.com",
-  gitHub: "darshan45672",
+  gitHub: "https://github.com/darshan45672",
   instagram: "mr_dare_striker",
-  linkedIn: "darshan",
+  linkedIn: "darshan-bhandary-b8691a249/",
   medium: "",
-  twitter: "microsoft",
+  twitter: "Darshan_Bhandry",
   youTube: "Code",
 };
 
