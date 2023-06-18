@@ -123,3 +123,10 @@ img.socialIcon {
   height: 30px;
   width: 30px;
 }
+h1{
+  color:black;
+}
+#home h2{
+  font-size: 40px;
+  color: white;
+}
