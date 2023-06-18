@@ -33,26 +33,26 @@ const projectList = [
   {
     title: "C programs for beginners",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "The C Programs for Beginners Repository is a comprehensive collection of simple and easy-to-understand C programs, specifically designed to help beginners learn and master the fundamentals of programming in C.",
+    url: "https://github.com/darshan45672/c-progrms",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Blood Bank and Donor Management System",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "An Online System built for the Blood Donation Organisation to manage the Blood Bank System in which Blood Donors can willingly give their name and the Person in need of blood can find whether the Blood is available or not.",
+    url: "https://github.com/darshan45672/Blood-Bank-and-Donor-Management-system",
+  },
+  {
+    title: "Car Race",
+    description:
+      "This Git repository contains a car race simulation project developed for enthusiasts and developers interested in simulating car races in a virtual environment. The project leverages the power of programming and provides a platform for creating and customizing car race scenarios.",
+    url: "https://github.com/darshan45672/Car-Race",
   },
   {
     title: "My Resume Site",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
-  },
-  {
-    title: "GitHub Codespaces and github.dev",
-    description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "Welcome to my resume site! I am a motivated and accomplished professional eager to showcase my skills and experiences. With a passion for Web and software development, I have 2 years of hands-on experience in these fields.",
+    url: "https://github.com/darshan45672/main-page",
   },
 ];
 
@@ -64,7 +64,7 @@ const Portfolio = () => {
         <div style={{ maxWidth: "40%", alignSelf: "center" }}>
           <img
             src={image}
-            style={{ height: "90%", width: "100%", objectFit: "cover" }}
+            style={{ height: "90%", width: "100%", objectFit: "cover", paddingLeft: "7rem"}}
             alt={imageAltText}
           />
         </div>
