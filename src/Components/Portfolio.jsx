@@ -29,6 +29,7 @@ const imageAltText = "desktop with books and laptop";
  * An array of objects that will be used to display for your project
  * links section. Below is a sample, update to reflect links you'd like to highlight.
  */
+
 const projectList = [
   {
     title: "C programs for beginners",
